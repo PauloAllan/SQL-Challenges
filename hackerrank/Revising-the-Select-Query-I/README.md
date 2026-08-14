@@ -12,3 +12,21 @@ SELECT *
 FROM CITY
 WHERE POPULATION >= 100000
   AND COUNTRYCODE = 'USA';
+📚 Concepts Practiced
+SELECT statement
+
+FROM clause
+
+WHERE clause filtering
+
+Comparison operator (>=)
+
+Logical operator (AND)
+
+Multi-condition filtering (Country & Population)
+
+Platform: HackerRank
+
+Difficulty: Easy
+
+Technology: SQL
