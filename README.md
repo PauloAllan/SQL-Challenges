@@ -10,7 +10,6 @@ The goal of this repository is to practice database queries, data manipulation, 
 * [Challenge 01 - City: Revising the Select Query I](./hackerrank/easy/Revising-the-Select-Query-I/)
 * [Challenge 02 - City: Revising the Select Query II](./hackerrank/easy/Revising-the-Select-Query-II/)
 * [Challenge 03 - City: Select All](./hackerrank/easy/Select-All/)
-(./hackerrank/easy/Revising-the-Select-Query-II/)
 * [Challenge 04 - City: Select By ID](./hackerrank/easy/Select-By-ID/)
 ---
 *Feel free to explore the folders to check the detailed problem statements, concepts practiced, and SQL solutions!*
